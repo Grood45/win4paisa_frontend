@@ -1,0 +1,10 @@
+
+.dash-top{
+    background:url("../../asset/dash-top.png");
+    background-repeat: no-repeat;
+ height: 60px;
+ width:100%;
+ background-size: cover;
+ border-radius: 20px;
+   
+}

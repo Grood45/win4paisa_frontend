@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>
+            Live Match Tracker Demo
+        </title>
+        <link rel="stylesheet" type="text/css" href="theme.css">
+        <style>
+            body {
+                display: flex;
+                justify-content: center;
+            }
+            .widgets {
+                max-width: 100%;
+                height: 100px;
+                width: 100%;
+                border-radius: 60px;
+            }
+            .sr-widget {
+                border: rgba(0,0,0,0.12) solid 1px;
+                margin-bottom: 24px;
+            }
+            .sr-widget-title {
+                font-weight: bold;
+                padding-bottom: 4px;
+            }
+        </style>
+    </head>
+    <body>
+       
+        <script>
+            
+
+            const eventid =localStorage.getItem("eventid")
+            (function(a,b,c,d,e,f,g,h,i){a[e]||(i=a[e]=function(){(a[e].q=a[e].q||[]).push(arguments)},i.l=1*new Date,i.o=f,
+g=b.createElement(c),h=b.getElementsByTagName(c)[0],g.async=1,g.src=d,g.setAttribute("n",e),h.parentNode.insertBefore(g,h)
+)})(window,document,"script", "https://widgets.sir.sportradar.com/42353554433/widgetloader", "SIR", {
+    theme: false, // using custom theme
+    language: "en"
+});
+SIR("addWidget", ".sr-widget-1", "match.lmtPlus", {layout: "double", matchId:47519989});
+        </script>
+        <div class="widgets">
+            <div>
+                <div class="sr-widget sr-widget-1">
+                <div id="sr-widget" data-sr-widget="match.lmtPlus" data-sr-match-id="47519989"></div>
+    <script type="application/javascript" src="https://widgets.sir.sportradar.com/sportradar/widgetloader" async></script>
+            </div></div>
+
+        </div>
+    </body>
+</html>

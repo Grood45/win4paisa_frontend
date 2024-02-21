@@ -1,0 +1,45 @@
+
+
+.thirdbg1{
+    background:url("../../../asset/jelly.png");
+    background-repeat: no-repeat;
+ background-size: cover;
+ border-radius: 20px;
+}
+.thirdbg2{
+    background:url("../../../asset/thirdimg2.png");
+    background-repeat: no-repeat;
+
+ background-size:cover;
+ border-radius: 20px;
+}
+.thirdbg3{
+    background:url("../../../asset/thirdimg3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+ border-radius: 20px;
+}
+
+.fourthbg1{
+    background:url("../../../asset/fourthimg1.png");
+    background-repeat: no-repeat;
+ border-radius: 20px;
+}
+
+.fourthbg2{
+    background:url("../../../asset/fourthimg2.png");
+    background-repeat: no-repeat;
+ border-radius: 20px;
+}
+
+.thirdchildbg{
+    background:url("../../../asset/Ellipse\ 71.png");
+    background-repeat: no-repeat;
+ border-radius: 20px;   
+ 
+}
+.thirdchild2bg{
+    background:url("../../../asset/Ellipse\ 89.png");
+    background-repeat: no-repeat;
+ border-radius: 20px;  
+}

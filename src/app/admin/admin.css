@@ -1,0 +1,162 @@
+body{
+    background-color: #4E4E4E;
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .bg{
+    background:url("../../asset/Background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width:100%
+}
+
+  .need{
+    background:url(../../asset/neddhelp.png);
+    background-repeat: no-repeat;
+    background-size: 240px 240px;
+  
+  }
+
+  .vision{
+    background: linear-gradient(98deg, #FFF 70.67%, rgba(117, 122, 140, 0.00) 108.55%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+  }
+
+  
+.dash-top{
+  background:url("../../asset/dash-top.png");
+  background-repeat: no-repeat;
+height: 60px;
+width:100%;
+background-size: cover;
+border-radius: 20px;
+ 
+}
+
+.profile-top{
+  background:url("../../asset/profile//psimg.png");
+  background-repeat: no-repeat;
+background-size:cover;
+
+}
+.pbg1{
+  background:url("../../asset/profile/pimg1.png");
+  background-repeat: no-repeat;
+width:100%;
+background-size: cover;
+}
+
+.pimg2{
+  background:url("../../asset/profile/pimg2.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
+
+.pimg3{
+  background:url("../../asset/profile/pimg3.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
+
+.pimg4{
+  background:url("../../asset/profile/pimg4.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
+.pimg5{
+  background:url("../../asset/profile/pimg5.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
+.pimg6{
+  background:url("../../asset/profile/pimg6.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
+.pimg7{
+  background:url("../../asset/profile/pimg7.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
+
+.depbg1{
+  background:url("../../asset/dgetway.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
+  
+ /* //input with btn */
+ .input-group {
+  display: flex;
+  align-items: center;
+
+}
+
+.input {
+  min-height: 50px;
+ width: 100%;
+  padding: 0 1rem;
+  font-size: 15px;
+  border: 1px solid #0075FF;
+  border-radius: 9px 0 0 9px;
+  background-color: transparent;
+}
+
+.button--submit {
+  min-height: 50px;
+  padding: .5em 1em;
+  border: none;
+  border-radius: 0 9px 9px 0;
+  background-color: #0075FF;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color .3s ease-in-out;
+}
+
+.button--submit:hover {
+  background-color: #3898EC;
+}
+
+.input:focus, .input:focus-visible {
+  border-color: #3898EC;
+  outline: none;
+}
+ /* end */
+
+.sign-bg{
+  background:url(../../asset/casinobg.jpeg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.balance{
+  background:url(../../asset/profile/giphy\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.adminsign{
+    background:linear-gradient(159deg, #0F123B 14.25%, #090D2E 56.45%, #020515 86.14%)
+}
+.admin-form{
+    background:linear-gradient(124deg, rgba(255, 255, 255, 0.00) -22.71%, rgba(255, 255, 255, 0.04) 70.04%)
+  
+}
+@media screen and (max-width: 1024px) {
+  .adminsign{
+    background:url(../../asset/Signupbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .admin-form{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(77, 18, 18);
+}
+}

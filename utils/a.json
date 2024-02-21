@@ -1,0 +1,263 @@
+[{
+    "gpId": 39,
+    "gpName": "RedTiger",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "RedTiger 大厅",
+    "device": [
+      "Desktop"
+    ]
+  },
+  
+  
+  {
+    "gpId": 46,
+    "gpName": "Sv388Cockfighting",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "Sv388Cockfighting 大厅",
+    "device": [
+      "Desktop"
+    ]
+  },
+  {
+    "gpId": 47,
+    "gpName": "GiocoPlus",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "GiocoPlus 大厅",
+    "device": [
+      "Desktop"
+    ]
+  },
+  {
+    "gpId": 1000,
+    "gpName": "ArcadiaGaming",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "ArcadiaGaming 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1009,
+    "gpName": "MPoker",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "泰富豪棋牌 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1010,
+    "gpName": "YGR",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "YGR 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1012,
+    "gpName": "TCGaming",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "TCGaming 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1016,
+    "gpName": "AFBGaming",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "AFBGaming 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1019,
+    "gpName": "YeeBet",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "YeeBet 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1020,
+    "gpName": "JiLiGaming",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "JiLiGaming 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1021,
+    "gpName": "OGLive",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "OGLive 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1024,
+    "gpName": "AFBCasino",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "AFBCasino 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1025,
+    "gpName": "PlayTech Live Casino",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "PlayTech Live Casino 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1026,
+    "gpName": "Rich88",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "Rich88 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1027,
+    "gpName": "MicroGaming LiveCasino",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "MGLC 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1029,
+    "gpName": "568WinGames",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "568WinGames 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1030,
+    "gpName": "DreamGaming",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "DG梦幻娱乐城 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1031,
+    "gpName": "Habanero",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "Habanero 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1032,
+    "gpName": "RelaxGaming",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "RelaxGaming 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1033,
+    "gpName": "KingMaker",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "KingMaker 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1034,
+    "gpName": "AdvantPlay",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "AdvantPlay 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1035,
+    "gpName": "AsiaGaming",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "AsiaGaming 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1036,
+    "gpName": "Live22",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "Live22 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  },
+  {
+    "gpId": 1037,
+    "gpName": "WE Casino",
+    "gameId": 0,
+    "gameName": "Lobby",
+    "gameNameChinese": "世界娱乐 大厅",
+    "device": [
+      "Desktop",
+      "Mobile"
+    ]
+  }]
